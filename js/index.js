@@ -29,7 +29,7 @@ $(window).on('scroll',function(){
 })
 // ******************** //
 $(function() {
-    countDown(`1 february 2024 24:00:00`);
+    countDown(`1 january 2025 24:00:00`);
     $( `.first .p` ).slideDown(1);
 });
 // ******************** //

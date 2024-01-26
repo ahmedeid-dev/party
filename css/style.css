@@ -4,6 +4,9 @@
 .bg-pink{
     background-color: #C46F71;
 }
+:root{
+    /* scroll-behavior: auto; */
+}
 header{
     background-image: linear-gradient(#cc002255 20% 90%),url(../images/events-heavenly-header.jpg);
     background-position: center center;
