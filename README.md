@@ -1,3 +1,3 @@
 # party
 jQuery Web Site
-Url : https://ahmedeid2260.github.io/BookMark/
+Url : https://ahmedeid2260.github.io/party/
